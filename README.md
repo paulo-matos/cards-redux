@@ -1,1 +1,1 @@
-#Simple cards application using React JS and Redux
+# Simple cards application using React JS and Redux
